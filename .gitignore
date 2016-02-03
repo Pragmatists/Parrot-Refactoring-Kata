@@ -1,0 +1,5 @@
+*.suo
+*.user
+CSharp/packages/
+CSharp/bin/
+CSharp/obj/
